@@ -1,4 +1,17 @@
+/**
+ * 
+ * @author czumaran
+ *
+ * This class outputs the 10th term of Fibonacci sequences in a recursive method
+ */
+
 public class Main extends Recursive{
+	/**
+	 * This is the main method used to execute the program 
+	 * 
+	 * @param args will output the 10th term for the number assigned to var
+	 *
+     */
 	public static void main(String[] args) {
 		int var = 10; 
 		
@@ -12,4 +25,3 @@ public class Main extends Recursive{
 }
 		
 		
-
