@@ -19,7 +19,7 @@ public class App extends Recursive{
 		for (int number = 0; number < var; number++) {
             recursive(number);
             if(number == 9) {
-         	   System.out.printf("The 10th term of the Fibonacci sequence is %d ", recursive(number)); 
+         	   System.out.printf("The 10th term of the Fibonacci's sequence is %d ", recursive(number)); 
             }
 		}
 	}		
