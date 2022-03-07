@@ -20,7 +20,9 @@ public class App extends Recursive{
             recursive(number);
             if(number == 9) {
          	   System.out.printf("The 10th term of the Fibonacci Sequence is: %d ", recursive(number)); 
+         	   
             }
 		}
 	}		
 }
+//small change made
